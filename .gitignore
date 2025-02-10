@@ -44,6 +44,7 @@ lcov-report/
 
 tags
 .build/
+inst/
 build*
 !build-info.cmake
 !build-info.cpp.in
